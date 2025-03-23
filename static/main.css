@@ -97,3 +97,48 @@ button {
 button:hover {
     background-color: #23272b; /* Slightly darker color on hover */
 }
+
+/* Circle Calculator Styles */
+input[type="number"] {
+    margin: 10px 0;
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+.result-box {
+    background-color: #e9ecef;
+    border-left: 5px solid #343a40;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 4px;
+}
+
+.result-box h2 {
+    margin-top: 0;
+    color: #343a40;
+    font-size: 1.5em;
+}
+
+.result-box p {
+    margin: 8px 0;
+    font-size: 1.1em;
+}
+
+/* Button Styling in home.html */
+.btn {
+    display: inline-block;
+    background-color: #343a40;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: bold;
+    margin-top: 15px;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #23272b;
+}
