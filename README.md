@@ -26,7 +26,7 @@ calculator_app/
 How to Run the Application  
 1.	Clone the repository:
 Copy
-git clone https://github.com/[username]/calculator_app_dsa_assignement_padma.git
+git clone https://github.com/padmabareddy/calculator_app_dsa_assignement_padma.git
 cd calculator_app_dsa_assignement_padma
 2.	Set up a virtual environment (recommended)
 3.	Run the application
